@@ -83,3 +83,26 @@ The model is trained using **categorical cross-entropy loss** and optimized with
 
 
 <img width="1354" height="583" alt="image" src="https://github.com/user-attachments/assets/d8c2cbf9-52cc-45f8-8b75-7ab79a7ca60e" />
+
+
+
+
+
+
+<img width="898" height="638" alt="image" src="https://github.com/user-attachments/assets/cc62650b-4130-40a5-b1ca-7d050f58b84e" />
+
+
+
+
+
+
+<img width="1228" height="658" alt="image" src="https://github.com/user-attachments/assets/24f6ab8d-9598-4101-883f-272f00243f00" />
+
+
+
+
+
+
+<img width="691" height="694" alt="image" src="https://github.com/user-attachments/assets/5f6217c7-098f-4b7e-b457-7f22e199fa38" />
+
+
